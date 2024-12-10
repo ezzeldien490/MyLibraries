@@ -1,7 +1,0 @@
-E:/MyLibraries/MyLib1/build/CMakeFiles/mylib1.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/edit_cache.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/rebuild_cache.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/list_install_components.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/install.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/install/local.dir
-E:/MyLibraries/MyLib1/build/CMakeFiles/install/strip.dir

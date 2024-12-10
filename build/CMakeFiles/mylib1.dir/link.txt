@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc E:\Programming\MyLibraries\MyLibraries\MyLib1\lib\libmylib1.a CMakeFiles/mylib1.dir/src/MyReadLib.cpp.obj
+C:\MinGW\bin\ranlib.exe E:\Programming\MyLibraries\MyLibraries\MyLib1\lib\libmylib1.a

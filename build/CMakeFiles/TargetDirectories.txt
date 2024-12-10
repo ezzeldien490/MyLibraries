@@ -1,0 +1,7 @@
+E:/Programming/MyLibraries/build/CMakeFiles/mylib1.dir
+E:/Programming/MyLibraries/build/CMakeFiles/edit_cache.dir
+E:/Programming/MyLibraries/build/CMakeFiles/rebuild_cache.dir
+E:/Programming/MyLibraries/build/CMakeFiles/list_install_components.dir
+E:/Programming/MyLibraries/build/CMakeFiles/install.dir
+E:/Programming/MyLibraries/build/CMakeFiles/install/local.dir
+E:/Programming/MyLibraries/build/CMakeFiles/install/strip.dir

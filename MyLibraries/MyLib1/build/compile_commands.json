@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/MyLibraries/MyLib1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/mylib1.dir/includes_CXX.rsp -g -o CMakeFiles\\mylib1.dir\\src\\MyReadLib.cpp.obj -c E:\\MyLibraries\\MyLib1\\src\\MyReadLib.cpp",
+  "file": "E:/MyLibraries/MyLib1/src/MyReadLib.cpp",
+  "output": "CMakeFiles/mylib1.dir/src/MyReadLib.cpp.obj"
+}
+]

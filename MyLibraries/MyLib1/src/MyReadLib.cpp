@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "mylib1.h"
 
 using namespace std;

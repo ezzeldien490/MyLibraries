@@ -1,2 +1,0 @@
-E:/Programming/MyLibraries/MyInstalledLibs/lib/libmylib1.a
-E:/Programming/MyLibraries/MyInstalledLibs/include/mylib1.h
